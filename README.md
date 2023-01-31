@@ -10,3 +10,6 @@ coop place
 - [ ] lof 爬虫修改，能够存储小菲日记
 - [ ] 站点建立
 - [ ] 定时 zip 包打包（用 crontab 哈……）
+
+### 可以改进
+- [ ] valine 加速，不使用 unpkg
